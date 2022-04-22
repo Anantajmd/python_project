@@ -3,7 +3,7 @@
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation.
 
-# Discription : Data will tack from serialy and show it on Spedometer GUI
+# Discription : Take analog data serialy from embedded device and show it on Spedometer GUI
  
 from tkinter import *
 import tkinter as tk
